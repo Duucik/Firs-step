@@ -5,4 +5,6 @@
 
 `$=work and smile`
 
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+
+If you’d like to offer a kind word or some advice, please get in touch :) I’m hungry for knowledge, as I’m a complete beginner. 
